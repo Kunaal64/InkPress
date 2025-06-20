@@ -8,6 +8,14 @@
 # testing
 /coverage
 
+# Dependency directories
+node_modules/
+.pnp
+.pnp.js
+.yarn/
+.yarn.lock
+package-lock.json
+
 # next.js
 /.next/
 /out/
